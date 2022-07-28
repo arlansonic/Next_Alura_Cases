@@ -12,6 +12,7 @@ function Title({ children, as }) {
             <style jsx>{`
                 ${Tag} {
                     color: red;
+                    font-family: sans-serif;
                 }
             `}
             </style>
